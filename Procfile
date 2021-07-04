@@ -1,1 +1,1 @@
-web: gunicorn --chdir src mcblitz_api.wsgi
+web: gunicorn --chdir src project_name.wsgi
