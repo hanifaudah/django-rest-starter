@@ -1,0 +1,1 @@
+web: gunicorn --chdir src mcblitz_api.wsgi
